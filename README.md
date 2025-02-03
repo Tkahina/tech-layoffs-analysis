@@ -44,10 +44,10 @@ Techniques used:
 
 
 ## 📁 Repository Structure
-├── layoffs.csv
-├── Data_Cleaning.sql
-├── Exploratory_Data_Analysis.sql
-├── README.md
+-  layoffs.csv
+-  Data_Cleaning.sql
+-  Exploratory_Data_Analysis.sql
+-  README.md
 
 ## 🔧 Tools
 - MySQL Workbench 8.0: Used for SQL development, data cleaning, and exploratory data analysis
